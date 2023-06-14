@@ -21,3 +21,23 @@
     margin: 0 16px;
     font-size: 20px;
 }
+
+.Obsessão-imagem{
+    width: 10%;
+}
+
+.lançamento{
+    background-image: linear-gradient(#010000,#8e1017);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.lançamento-div{
+    width: 40%;
+}
+.título-livro{
+    padding: 24px 0;
+}
